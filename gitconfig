@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = michael.schafhauser@hhl.de
+	name = Michael Schafhauser
